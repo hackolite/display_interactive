@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: send_display
+Version: 0.1
+Summary: Send display transaction
+Author: Laureote Loic
+Author-email: laureote-loic@hotmail.fr
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: jsonschema
+Requires-Dist: flask
+Requires-Dist: cryptography

@@ -1,0 +1,2 @@
+[console_scripts]
+send_display = send_display.display_manager:main
