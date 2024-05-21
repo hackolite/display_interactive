@@ -30,7 +30,7 @@ check that customers.csv and purchases.csv are in data folder
 ```
 
 ## TEST
-Test json body validation
+Test json body validation in test folder
 
 ```bash
   cd ..
